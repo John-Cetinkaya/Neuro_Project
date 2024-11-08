@@ -1,0 +1,500 @@
+GENERATION: 1
+It best fitness: 0.49009804864072154
+It fitness Average: 0.2937805151780068
+Best Position: [16, 14]
+
+GENERATION: 2
+It best fitness: 0.5
+It fitness Average: 0.2995574858650317
+Best Position: [15, 15]
+
+GENERATION: 3
+It best fitness: 0.5
+It fitness Average: 0.3093468285760948
+Best Position: [15, 15]
+
+GENERATION: 4
+It best fitness: 0.5
+It fitness Average: 0.3252463121019752
+Best Position: [15, 15]
+
+GENERATION: 5
+It best fitness: 0.6837722339831621
+It fitness Average: 0.3505670452879522
+Best Position: [8, 14]
+
+GENERATION: 6
+It best fitness: 0.6837722339831621
+It fitness Average: 0.3713185601899293
+Best Position: [8, 14]
+
+GENERATION: 7
+It best fitness: 0.6837722339831621
+It fitness Average: 0.37751333665584275
+Best Position: [8, 14]
+
+GENERATION: 8
+It best fitness: 0.7000000000000001
+It fitness Average: 0.38837431066306194
+Best Position: [13, 13]
+
+GENERATION: 9
+It best fitness: 0.7000000000000001
+It fitness Average: 0.39090350934453333
+Best Position: [13, 13]
+
+GENERATION: 10
+It best fitness: 0.7000000000000001
+It fitness Average: 0.3960882666168224
+Best Position: [13, 13]
+
+GENERATION: 11
+It best fitness: 0.776393202250021
+It fitness Average: 0.3961783443106831
+Best Position: [13, 9]
+
+GENERATION: 12
+It best fitness: 0.8585786437626906
+It fitness Average: 0.4012275661713935
+Best Position: [10, 8]
+
+GENERATION: 13
+It best fitness: 0.8585786437626906
+It fitness Average: 0.41173399671427396
+Best Position: [10, 8]
+
+GENERATION: 14
+It best fitness: 0.9292893218813453
+It fitness Average: 0.42033962948438236
+Best Position: [10, 9]
+
+GENERATION: 15
+It best fitness: 0.9292893218813453
+It fitness Average: 0.44131322698324027
+Best Position: [10, 9]
+
+GENERATION: 16
+It best fitness: 1.0
+It fitness Average: 0.48168699950230015
+Best Position: [10, 10]
+
+GENERATION: 17
+It best fitness: 1.0
+It fitness Average: 0.5640269166382783
+Best Position: [10, 10]
+
+GENERATION: 18
+It best fitness: 1.0
+It fitness Average: 0.578436769744517
+Best Position: [10, 10]
+
+GENERATION: 19
+It best fitness: 1.0
+It fitness Average: 0.5936686577745357
+Best Position: [10, 10]
+
+GENERATION: 20
+It best fitness: 1.0
+It fitness Average: 0.635659018227823
+Best Position: [10, 10]
+
+GENERATION: 21
+It best fitness: 1.0
+It fitness Average: 0.6786072790747028
+Best Position: [10, 10]
+
+GENERATION: 22
+It best fitness: 1.0
+It fitness Average: 0.6919803667963857
+Best Position: [10, 10]
+
+GENERATION: 23
+It best fitness: 1.0
+It fitness Average: 0.7098145676405092
+Best Position: [10, 10]
+
+GENERATION: 24
+It best fitness: 1.0
+It fitness Average: 0.7785444304876031
+Best Position: [10, 10]
+
+GENERATION: 25
+It best fitness: 1.0
+It fitness Average: 0.8159701396503176
+Best Position: [10, 10]
+
+GENERATION: 26
+It best fitness: 1.0
+It fitness Average: 0.8163248961260501
+Best Position: [10, 10]
+
+GENERATION: 27
+It best fitness: 1.0
+It fitness Average: 0.8187889457616095
+Best Position: [10, 10]
+
+GENERATION: 28
+It best fitness: 1.0
+It fitness Average: 0.8340298309870833
+Best Position: [10, 10]
+
+GENERATION: 29
+It best fitness: 1.0
+It fitness Average: 0.8267054406306406
+Best Position: [10, 10]
+
+GENERATION: 30
+It best fitness: 1.0
+It fitness Average: 0.8273512178339906
+Best Position: [10, 10]
+
+GENERATION: 31
+It best fitness: 1.0
+It fitness Average: 0.8241192673424482
+Best Position: [10, 10]
+
+GENERATION: 32
+It best fitness: 1.0
+It fitness Average: 0.838544790213532
+Best Position: [10, 10]
+
+GENERATION: 33
+It best fitness: 1.0
+It fitness Average: 0.8239714817626869
+Best Position: [10, 10]
+
+GENERATION: 34
+It best fitness: 1.0
+It fitness Average: 0.8109170666202594
+Best Position: [10, 10]
+
+GENERATION: 35
+It best fitness: 1.0
+It fitness Average: 0.832980000769483
+Best Position: [10, 10]
+
+GENERATION: 36
+It best fitness: 1.0
+It fitness Average: 0.8293226737385135
+Best Position: [10, 10]
+
+GENERATION: 37
+It best fitness: 1.0
+It fitness Average: 0.8253265604361526
+Best Position: [10, 10]
+
+GENERATION: 38
+It best fitness: 1.0
+It fitness Average: 0.8151820685954358
+Best Position: [10, 10]
+
+GENERATION: 39
+It best fitness: 1.0
+It fitness Average: 0.8129979607295189
+Best Position: [10, 10]
+
+GENERATION: 40
+It best fitness: 1.0
+It fitness Average: 0.8126370175854132
+Best Position: [10, 10]
+
+GENERATION: 41
+It best fitness: 1.0
+It fitness Average: 0.8287368883109271
+Best Position: [10, 10]
+
+GENERATION: 42
+It best fitness: 1.0
+It fitness Average: 0.8277663044393725
+Best Position: [10, 10]
+
+GENERATION: 43
+It best fitness: 1.0
+It fitness Average: 0.8236232415104785
+Best Position: [10, 10]
+
+GENERATION: 44
+It best fitness: 1.0
+It fitness Average: 0.8254901300000493
+Best Position: [10, 10]
+
+GENERATION: 45
+It best fitness: 1.0
+It fitness Average: 0.8197992359327915
+Best Position: [10, 10]
+
+GENERATION: 46
+It best fitness: 1.0
+It fitness Average: 0.8143079345433951
+Best Position: [10, 10]
+
+GENERATION: 47
+It best fitness: 1.0
+It fitness Average: 0.8323176337641842
+Best Position: [10, 10]
+
+GENERATION: 48
+It best fitness: 1.0
+It fitness Average: 0.8131996971158962
+Best Position: [10, 10]
+
+GENERATION: 49
+It best fitness: 1.0
+It fitness Average: 0.8199483744219248
+Best Position: [10, 10]
+
+GENERATION: 50
+It best fitness: 1.0
+It fitness Average: 0.8230895992678783
+Best Position: [10, 10]
+
+GENERATION: 51
+It best fitness: 1.0
+It fitness Average: 0.8216783946068469
+Best Position: [10, 10]
+
+GENERATION: 52
+It best fitness: 1.0
+It fitness Average: 0.8336150491839346
+Best Position: [10, 10]
+
+GENERATION: 53
+It best fitness: 1.0
+It fitness Average: 0.8253263430748856
+Best Position: [10, 10]
+
+GENERATION: 54
+It best fitness: 1.0
+It fitness Average: 0.8175703860912752
+Best Position: [10, 10]
+
+GENERATION: 55
+It best fitness: 1.0
+It fitness Average: 0.8177235665732987
+Best Position: [10, 10]
+
+GENERATION: 56
+It best fitness: 1.0
+It fitness Average: 0.8318988640584339
+Best Position: [10, 10]
+
+GENERATION: 57
+It best fitness: 1.0
+It fitness Average: 0.8086550228871721
+Best Position: [10, 10]
+
+GENERATION: 58
+It best fitness: 1.0
+It fitness Average: 0.820827793008494
+Best Position: [10, 10]
+
+GENERATION: 59
+It best fitness: 1.0
+It fitness Average: 0.82117131764293
+Best Position: [10, 10]
+
+GENERATION: 60
+It best fitness: 1.0
+It fitness Average: 0.8337241152280138
+Best Position: [10, 10]
+
+GENERATION: 61
+It best fitness: 1.0
+It fitness Average: 0.8234575033352186
+Best Position: [10, 10]
+
+GENERATION: 62
+It best fitness: 1.0
+It fitness Average: 0.821412147863399
+Best Position: [10, 10]
+
+GENERATION: 63
+It best fitness: 1.0
+It fitness Average: 0.824133520301081
+Best Position: [10, 10]
+
+GENERATION: 64
+It best fitness: 1.0
+It fitness Average: 0.8096706314005048
+Best Position: [10, 10]
+
+GENERATION: 65
+It best fitness: 1.0
+It fitness Average: 0.8161245463638109
+Best Position: [10, 10]
+
+GENERATION: 66
+It best fitness: 1.0
+It fitness Average: 0.8329457770518527
+Best Position: [10, 10]
+
+GENERATION: 67
+It best fitness: 1.0
+It fitness Average: 0.8147601314413554
+Best Position: [10, 10]
+
+GENERATION: 68
+It best fitness: 1.0
+It fitness Average: 0.8336001513295506
+Best Position: [10, 10]
+
+GENERATION: 69
+It best fitness: 1.0
+It fitness Average: 0.8210089860071775
+Best Position: [10, 10]
+
+GENERATION: 70
+It best fitness: 1.0
+It fitness Average: 0.8246727092675182
+Best Position: [10, 10]
+
+GENERATION: 71
+It best fitness: 1.0
+It fitness Average: 0.8118763558801368
+Best Position: [10, 10]
+
+GENERATION: 72
+It best fitness: 1.0
+It fitness Average: 0.7979976578075736
+Best Position: [10, 10]
+
+GENERATION: 73
+It best fitness: 1.0
+It fitness Average: 0.8192313723135891
+Best Position: [10, 10]
+
+GENERATION: 74
+It best fitness: 1.0
+It fitness Average: 0.8214680764194267
+Best Position: [10, 10]
+
+GENERATION: 75
+It best fitness: 1.0
+It fitness Average: 0.8234047107123588
+Best Position: [10, 10]
+
+GENERATION: 76
+It best fitness: 1.0
+It fitness Average: 0.8074426089132514
+Best Position: [10, 10]
+
+GENERATION: 77
+It best fitness: 1.0
+It fitness Average: 0.8221964644641842
+Best Position: [10, 10]
+
+GENERATION: 78
+It best fitness: 1.0
+It fitness Average: 0.8272112770640913
+Best Position: [10, 10]
+
+GENERATION: 79
+It best fitness: 1.0
+It fitness Average: 0.8275142368791721
+Best Position: [10, 10]
+
+GENERATION: 80
+It best fitness: 1.0
+It fitness Average: 0.8270269388632382
+Best Position: [10, 10]
+
+GENERATION: 81
+It best fitness: 1.0
+It fitness Average: 0.8085730097652808
+Best Position: [10, 10]
+
+GENERATION: 82
+It best fitness: 1.0
+It fitness Average: 0.8260683442300364
+Best Position: [10, 10]
+
+GENERATION: 83
+It best fitness: 1.0
+It fitness Average: 0.8185849339338769
+Best Position: [10, 10]
+
+GENERATION: 84
+It best fitness: 1.0
+It fitness Average: 0.8118360160558162
+Best Position: [10, 10]
+
+GENERATION: 85
+It best fitness: 1.0
+It fitness Average: 0.8143036975588881
+Best Position: [10, 10]
+
+GENERATION: 86
+It best fitness: 1.0
+It fitness Average: 0.8260908521981547
+Best Position: [10, 10]
+
+GENERATION: 87
+It best fitness: 1.0
+It fitness Average: 0.8237398087455156
+Best Position: [10, 10]
+
+GENERATION: 88
+It best fitness: 1.0
+It fitness Average: 0.8303767367638748
+Best Position: [10, 10]
+
+GENERATION: 89
+It best fitness: 1.0
+It fitness Average: 0.8302744033407332
+Best Position: [10, 10]
+
+GENERATION: 90
+It best fitness: 1.0
+It fitness Average: 0.8261723166438697
+Best Position: [10, 10]
+
+GENERATION: 91
+It best fitness: 1.0
+It fitness Average: 0.80882748107925
+Best Position: [10, 10]
+
+GENERATION: 92
+It best fitness: 1.0
+It fitness Average: 0.8271624414468498
+Best Position: [10, 10]
+
+GENERATION: 93
+It best fitness: 1.0
+It fitness Average: 0.8264173645590528
+Best Position: [10, 10]
+
+GENERATION: 94
+It best fitness: 1.0
+It fitness Average: 0.821748423386491
+Best Position: [10, 10]
+
+GENERATION: 95
+It best fitness: 1.0
+It fitness Average: 0.8215793754307225
+Best Position: [10, 10]
+
+GENERATION: 96
+It best fitness: 1.0
+It fitness Average: 0.8184940470214915
+Best Position: [10, 10]
+
+GENERATION: 97
+It best fitness: 1.0
+It fitness Average: 0.8105399239396018
+Best Position: [10, 10]
+
+GENERATION: 98
+It best fitness: 1.0
+It fitness Average: 0.8145092448582193
+Best Position: [10, 10]
+
+GENERATION: 99
+It best fitness: 1.0
+It fitness Average: 0.8198270741919913
+Best Position: [10, 10]
+
+GENERATION: 100
+It best fitness: 1.0
+It fitness Average: 0.8145282641009223
+Best Position: [10, 10]
+
