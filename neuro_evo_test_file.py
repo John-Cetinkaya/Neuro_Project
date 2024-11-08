@@ -5,14 +5,14 @@ finding working algorithms for non topological neuro evolution to implement cros
 better"""
 
 import matplotlib.pyplot as plt
-import neuro_evolution_experiment as NNTE
+import population_environment as PE
 
 goal = [10,10]
-env = NNTE.Env(20, 20, 30)
-population = NNTE.Population(1000, env, goal)
+env = PE.Env(20, 20, 30)
+population = PE.Population(1000, env, goal)
 env.set_population(population)
 CHECK = True
-skeletonNN = NNTE.gen_neural_net(2,4,4,3)
+skeletonNN = PE.gen_neural_net(2,4,4,3)
 FRAME = 0
 GENERATION = 0
 best_fitness = []
